@@ -2,7 +2,7 @@
 window.Config = {
 
   // 站点名
-  SiteName: 'トゥットゥルー！解析 by AisukaYuki',
+  SiteName: 'トゥットゥルー! @AisukaYuki',
 
   // 站点链接
   SiteUrl: 'https://bili.tuturu.top/',
